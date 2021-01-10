@@ -1,12 +1,4 @@
-# gogo-tree
-
-A music history tree.
-
-To run:
-- [Install Ruby](https://www.ruby-lang.org/en/documentation/installation/)
-- `gem install bundler jekyll`
-- `cd /your/path/gogo-tree`
-- `jekyll serve`
+# Creative Theme for Jekyll
 
 A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
 
